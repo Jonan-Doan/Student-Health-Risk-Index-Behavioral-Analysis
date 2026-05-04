@@ -1,4 +1,4 @@
-# Student-Health-Crisis-Index
+# Student Health Risk Index & Behavioral Analysis
 **Objective:** Identifying high-risk students in a 50,000-record dataset to drive targeted wellness interventions.
 
 # 1. The Challenge:
