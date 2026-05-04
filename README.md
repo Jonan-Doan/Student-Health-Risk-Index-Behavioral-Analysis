@@ -31,5 +31,5 @@ Using the dashboard, I isolated the **0.6% of the population** (approximately 30
 
 <img width="1308" height="524" alt="image" src="https://github.com/user-attachments/assets/2fb70acf-af20-40c6-b956-d6afc8fcd0c1" />
 
-[Link to Dashboard]([[https://www.example.com](https://public.tableau.com/app/profile/jonan.doan/viz/StudentHealthCrisisIndexDashboard/HealthCrisisDashboardAnalyzingtheImpactofStressonStudentWellness#1](https://public.tableau.com/app/profile/jonan.doan/viz/StudentHealthCrisisIndexDashboard/HealthCrisisDashboardAnalyzingtheImpactofStressonStudentWellness)))
+**[Click Here to View the Dashboard](https://public.tableau.com/app/profile/jonan.doan/viz/StudentHealthCrisisIndexDashboard/HealthCrisisDashboardAnalyzingtheImpactofStressonStudentWellness)**
 
