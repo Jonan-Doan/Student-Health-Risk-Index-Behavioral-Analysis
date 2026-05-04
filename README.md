@@ -29,6 +29,7 @@ Using the dashboard, I isolated the **0.6% of the population** (approximately 30
 3. Sedentary Lifestyle (< 4,000 steps)
 **The Result:** Rather than a university trying to help 50,000 students at once, they now have a **targeted list of 300 individuals** for immediate "Wellness Checks" and intervention.
 
-<img width="1294" height="527" alt="image" src="https://github.com/user-attachments/assets/535853bb-9780-425d-8a3e-1c08ae4df929" />
+<img width="1308" height="524" alt="image" src="https://github.com/user-attachments/assets/2fb70acf-af20-40c6-b956-d6afc8fcd0c1" />
+
 [Link to Dashboard]([https://www.example.com](https://public.tableau.com/app/profile/jonan.doan/viz/StudentHealthCrisisIndexDashboard/HealthCrisisDashboardAnalyzingtheImpactofStressonStudentWellness#1))
 
